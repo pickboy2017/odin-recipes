@@ -1,0 +1,33 @@
+img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 2px;
+  box-shadow: 0 0 5px gray;
+}
+li p {
+  font-size: 25px;
+  line-height: 30px;
+}
+body {
+  font-family: sans-serif;
+}
+b {
+  color: lightcoral;
+  font-weight: 300;
+  font-size: 18px;
+}
+h1 {
+  color: white;
+  background-color: rgb(245, 65, 65);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  width: fit-content;
+}
+ul:hover,
+ol:hover {
+  font-size: 25px;
+}
